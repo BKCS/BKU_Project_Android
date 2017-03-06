@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_user"
+            android:icon="@drawable/ic_menu_user"
+            android:title="@string/Account" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/Location" />
+        <item
+            android:id="@+id/nav_transport"
+            android:icon="@drawable/ic_menu_bus"
+            android:title="@string/Transports" />
+        <item
+            android:id="@+id/nav_cost"
+            android:icon="@drawable/ic_menu_cost"
+            android:title="@string/Cost" />
+        <item
+            android:id="@+id/nav_voice"
+            android:icon="@drawable/ic_menu_voice"
+            android:title="@string/Report" />
+
+    </group>
+
+    <item android:title="@string/Manage">
+        <menu>
+            <item
+                android:id="@+id/nav_languages"
+                android:icon="@drawable/ic_menu_language"
+                android:title="@string/Language" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/About" />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="@string/Logout" />
+        </menu>
+    </item>
+
+</menu>

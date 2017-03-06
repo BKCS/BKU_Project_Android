@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "680118327083",
+    "firebase_url": "https://bkcs-a7096.firebaseio.com",
+    "project_id": "bkcs-a7096",
+    "storage_bucket": "bkcs-a7096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680118327083:android:e1a6b4871b2a5860",
+        "android_client_info": {
+          "package_name": "com.application.hieu_nt.bkcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680118327083-pggg41lqnbu6td8h4u3rorh5b0sr9m1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmSl-ARbFeF32e65b1JgNP3tlMsObKI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
